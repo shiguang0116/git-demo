@@ -1,0 +1,1 @@
+console.log('创建index.js文件')
